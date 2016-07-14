@@ -1,0 +1,27 @@
+{
+  "name": "google-sheet-update",
+  "version": "0.1.0",
+  "description": "",
+  "main": "update.js",
+  "engines": {
+    "node": "0.12.14"
+  },
+  "scripts": {
+    "start": "echo \"No process to start\" && exit 0",
+    "update": "node update.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "1.3.0",
+    "edit-google-spreadsheet": "0.2.19",
+    "express": "4.13.1",
+    "google-spreadsheet": "^2.0.3",
+    "googleapis": "1.1.5",
+    "jade": "1.10.0",
+    "lodash": "4.13.1",
+    "q": "1.4.1",
+    "request": "2.58.0"
+  }
+}
