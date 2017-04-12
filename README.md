@@ -20,3 +20,5 @@ npm run update
 | SHEET_ID     | Google sheet ID, can be found in URL |
 | API_BASE     | Base URL of API, including trailing slash |
 | API_KEY      | Key to authenticate with API, if required |
+
+There is an example in the .env-sample

@@ -1,2 +1,7 @@
 *.pem
 *.p12
+.env
+.env_live
+.env_staging
+/.idea/*
+node_modules/*

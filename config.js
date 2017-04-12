@@ -1,3 +1,5 @@
+require('dotenv').config({path: './.env'});
+
 module.exports = {
   env: process.env.NODE_ENV || 'development',
   apiBase: process.env.API_BASE,
